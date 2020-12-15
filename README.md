@@ -1,6 +1,10 @@
 <h1>Project Name</h1>
 <h2>chucknorris API</h2>
 <p>A react.js SPA that generates and fetches data from the chucknorrisapi.io</p>
+
+https://github.com/Kay-raph/chucknorrisapi/blob/master/src/norris.png
+
+
 <h1>Installation and Set up</h1>
 Clone this repository. 
 You will need node and npm installed globally on your machine.
