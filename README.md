@@ -2,7 +2,7 @@
 <h2>chucknorris API</h2>
 <p>A react.js SPA that generates and fetches data from the chucknorrisapi.io</p>
 
-https://github.com/Kay-raph/chucknorrisapi/blob/master/src/norris.png
+![images.jpg](https://github.com/Kay-raph/chucknorrisapi/blob/master/src/norris.png) 
 
 
 <h1>Installation and Set up</h1>
@@ -19,7 +19,4 @@ To Start Server:
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
-To Visit App:
-
-localhost:3000/ideas
 
