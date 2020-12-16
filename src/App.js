@@ -10,11 +10,13 @@ useEffect (() => {
 }, []);
 const [quote, setQuote] = useState(); 
 
+
 const getData = async () => {
   try{
     let chuckJokes = await fetch('https://api.chucknorris.io/jokes/random');
     let data = await chuckJokes.json();
     setQuote(data.value);
+    
   
   }
   catch(error){
@@ -54,7 +56,7 @@ console.warn('We have an error:${error}');
       </div>
       </center>
       <h2 className="subTitle">Here is the Fact!</h2>
-      <p className="quote">"{quote}"</p>
+      <p className="quote"><b className="co">"</b>{quote}<b className="co">"</b></p>
       
 <br></br>
 <br></br>

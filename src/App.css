@@ -4,7 +4,10 @@ body{
   margin: 0;
   padding: 0;
 }
-
+.co{
+  color: crimson;
+  font-size: 25px;
+}
 img{
   max-width: 100%;
 }
